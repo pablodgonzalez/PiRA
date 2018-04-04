@@ -1,13 +1,13 @@
 # PiRA
 
-PiRA es una idea original de Adrian Alvarez, Maestro de Grado de Caleta Olivia!
+PiRA es una idea original de Adrian Alvarez, Asistente de Medios Gabinete de Informática de Caleta Olivia, Santa Cruz, Argentina.
 
-El objetivo pedagojico de PiRA es fomentar a través de la ludificación de las clases la competencia, colaboración y recompensas en pos de lograr objetivos.
+El objetivo pedagógico de PiRA es fomentar a través de la ludificación de las clases la comprensión de los temas explicados o proyectados, la colaboración y recompensas en pos de lograr objetivos.
 
 Dichos ojetivos se logran superando de manera correcta los desafios planteados en la aplicación.
 
-A su vez el Maestro controla el ritmo de amprendizaje de los alumnos obteniendo metricas detalladas de las actividades y respuestas obtenidas indivualmente y como grupo.
-Es así que el Maestro puede elegir que actividades ofrecer a cada alumno regulando el avance de estudio para explotar las habilidades individuales de cada alumno sin descuidar los objetivos generales del grupo. 
+A su vez el Maestro controla el ritmo de amprendizaje de los alumnos obteniendo métricas detalladas de las actividades y respuestas obtenidas indivualmente y como grupo.
+Es así que el Maestro puede elegir qué actividades ofrecer a cada alumno regulando el avance de estudio para explotar las habilidades individuales de cada alumno sin descuidar los objetivos generales del grupo. 
 
 El uso de PiRA esta pensado para ser usado de manera individual por cada maestro, ya que es imposible controlar la calidad de las conexiones en cada escuela. Sin embargo es posible armar redes privadas pequeñas para el aula, pudiendo el maestro con un simple comando brindar el servidor para el trabajo en el aula.
 
